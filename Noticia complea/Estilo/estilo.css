@@ -1,0 +1,29 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed&display=swap');
+/* CSS Document */
+h1 {text-align:center;
+	color: #F2AC29;
+	font-family: 'Anton', sans-serif;
+	font-size: 5em
+}
+p.alternativo {color: #F2AC29;
+text-align: justify;
+text-align: center;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 1.5em}
+.imagenalcentro{display: block;
+margin-left:auto;
+margin-right: auto;
+width: 25%;}
+p.noticias {color: #F2AC29;
+text-align: justify;
+text-align: center;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 1.5em}
+a.direccion
+ {color: #F2AC29;
+text-align: justify;
+text-align: center;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 1.5em}
